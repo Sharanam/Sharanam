@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sharanam-chotai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://dev.to/sharanam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
-<a href="https://twitter.com/sharanamchotai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://instagram.com/sharanamchotai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sharanam-chotai" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38852691/205425162-21bc0f6f-f860-48a8-8fbb-fe53b4ae7240.png" alt="linkedin" height="40" width="40" /></a>
+<a href="https://dev.to/sharanam" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38852691/205425144-c424d9ff-40be-4b1f-a1cd-ed356ecddb00.png" alt="dev.to" height="40" width="40" /></a>
+<a href="https://twitter.com/sharanamchotai" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38852691/205425119-c161bddb-3288-44dd-b835-2386760c058b.png" alt="twitter" height="40" width="40" /></a>
+<a href="https://instagram.com/sharanamchotai" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38852691/205425008-a643385d-0e81-4abc-b984-67619db075e1.png" alt="instagram" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
